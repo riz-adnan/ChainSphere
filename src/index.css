@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import url('https://rsms.me/inter/inter.css');
+
+/* Your custom styles here */
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 640px) {
+  .container {
+    max-width: 100%;
+    padding: 1rem;
+  }
+}
