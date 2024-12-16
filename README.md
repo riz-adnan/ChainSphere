@@ -102,6 +102,12 @@ Make sure you have the following installed on your local machine:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Authors
+
+Adnan Abbas Rizvi
+Prakhar Moses
+Anish Kumar
+
 ## Contact
 
 For any inquiries or support, please reach out to [Adnan](mailto:rizviadnan72@gmail.com), [Anish](mailto:your-email@example.com), and [Prakhar](mailto:your-email@example.com)
