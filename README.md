@@ -104,9 +104,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-Adnan Abbas Rizvi
-Prakhar Moses
-Anish Kumar
+- Adnan Abbas Rizvi
+- Prakhar Moses
+- Anish Kumar
 
 ## Contact
 
